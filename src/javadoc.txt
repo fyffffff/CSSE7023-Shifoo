@@ -1,0 +1,18 @@
+/** javadoc basic **/
+
+/**
+ * Calculate the area of a triangle.
+ * @param base  The base value of the triangle.
+ * @param height  The height value of the triangle.
+ * @return The area value of the triangle.
+ */
+
+/** javadoc advanced **/
+
+/**
+ * Sets the phone number.
+ * @param phoneNumber   The string value of a phone number.
+ * @throws InvalidPhoneNumberException  If the phone number contains
+ *                                      an invalid number.
+ * @requires Precondition   phoneNumber != null
+ */
